@@ -1,5 +1,5 @@
 # ✌️ Acerca de mi:
-¡Hola! Soy Egresado de Ingeniería en Desarrollo y Gestión de Software, con título en trámite. Mi pasión por la tecnología me impulsa a crear soluciones innovadoras y eficientes, tanto en <br>el ámbito web como en aplicaciones móviles.<br>En este momento, estoy buscando integrarme a prácticas profesionales que me permitan seguir creciendo tanto personal como profesionalmente, aportando mis conocimientos y aprendiendo de otros profesionales en el proceso<br>.Si quieres saber más sobre mis proyectos, mis intereses o alguna de mis contribuciones en GitHub, <br>¡no dudes en contactarme!
+¡Hola! Soy Ingeniero en Desarrollo y Gestión de Software. Mi pasión por la tecnología me impulsa a crear soluciones innovadoras y eficientes, tanto en <br>el ámbito web como en aplicaciones móviles.<br>En este momento, estoy buscando integrarme a prácticas profesionales que me permitan seguir creciendo tanto personal como profesionalmente, aportando mis conocimientos y aprendiendo de otros profesionales en el proceso<br>.Si quieres saber más sobre mis proyectos, mis intereses o alguna de mis contribuciones en GitHub, <br>¡no dudes en contactarme!
 
 
 ## 🌐 Socials:
